@@ -33,7 +33,7 @@ Installation
 ## Clone the repository:
 
 
-git clone https://github.com/your-username/note-taking-app.git
+git clone https://github.com/nakulsharma2002/note-taking-app.git
 
 cd my-app
 
